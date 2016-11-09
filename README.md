@@ -4,12 +4,12 @@ Training based on [Firebase in a Weekend: Android by Google](https://www.udacity
 
 ## Features
 
-- Real time database
-- Authentication
-- Storage
-- Analytics
-- Notifications
-- Remote configuration
+- [X] Realtime Database
+- [ ] Authentication
+- [ ] Storage
+- [ ] Analytics
+- [ ] Notifications
+- [ ] Remote configuration
 
 ## Setup
 
