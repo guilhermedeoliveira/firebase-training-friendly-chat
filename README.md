@@ -8,7 +8,7 @@ Training based on [Firebase in a Weekend: Android by Google](https://www.udacity
 - [X] Authentication
 - [X] Storage
 - [X] Analytics
-- [ ] Notifications
+- [X] Notifications
 - [ ] Remote configuration
 
 ## Setup
